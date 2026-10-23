@@ -31,7 +31,7 @@ window.CONFIG = {
   // mensagem: texto que já vem pré-preenchido quando a pessoa abre o WhatsApp.
   whatsapp: {
     numero: "5588996632325",
-    mensagem: "PRESENÇA CONFIRMADA COM SUCESSO!\nEstarei presente para celebrar os 40 anos de Tomaz Edson! Que venha uma noite inesquecível, repleta de alegria, boas energias e momentos especiais!"
+    mensagem: "PRESENÇA CONFIRMADA COM SUCESSO!\n\nEstarei presente para celebrar os 40 anos de Tomaz Edson! Que venha uma noite inesquecível, repleta de alegria, boas energias e momentos especiais!"
   },
 
   // ----- LOCALIZAÇÃO (BOTÃO MAPA) ----------------------------------------
